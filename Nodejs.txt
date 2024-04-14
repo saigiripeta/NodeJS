@@ -1,0 +1,244 @@
+Node JS 
+========
+
+
+Day 1
+======
+
+1.Node js is the server side technology  (or)  servre side language.
+2.Node js is used to develop the servers  like Http server,  Tcp Server.
+3.Node applications are called serverless Applications
+
+4.We can develop node js servers in two ways  
+                                           
+					   1.Javascript
+					   -------------
+					   
+					               1.scripting language
+						       2.It is not supported OOPs.
+						       3.javascript is object based.
+
+					   2.Typescript
+					   -------------
+
+						       1.it is known as programming language
+						       2.It is developed by Microsoft
+						       3.It supports the oops.
+
+
+syllabus course
+---------------
+1.Express JS  (Rest Services )   Express js is a Framework.
+
+                 Get
+		 Post
+		 Put
+		 Head
+		 Trace
+		 Delete
+
+2)Data Base (CRUD Operations)
+
+            ==>MangoDB
+               (NoSQl)
+               (Json Based)
+
+            ==>Mysql
+   
+
+            ==>SQl Server
+
+            ==>Oracle 
+
+
+3)MiddelWares
+
+
+4)Authentication
+ 
+             JWT Authentication (json web Token)
+
+
+5)HTTP server
+
+
+6)Chat Application
+
+
+7)Multer Module (Image Upload/ Download)
+
+
+8)Email sending
+
+
+
+
+========================================================================================
+
+
+Day 2
+-----
+
+
+Node js is  a server side language Or server side scripting language.
+
+Node js is used to develop servers.
+                                   
+				   Http server
+				   Tcp server
+
+
+We can build node application in two ways 
+                                            1.javascript is not object Oriented
+
+					    javascript is the objcet Based scripting language.
+
+
+					    2.Typescript is the programming language.
+
+					     It is introducted in  the microsoft.
+
+					     It is supports the OOps.
+
+
+Node js supports the Modules (or)  ( Libraries predefined and User defined libraries).
+
+Modules
+-------
+1.http         : is used to Build the http servers.
+
+         
+
+2.fs           : fs stands for file system
+         
+	          fs module used to interact with flat files (texet files, xml files, Json files).
+
+
+3.Express      : Express Module is used to build the Rest Services . 
+      
+               
+	                           Get 
+
+	                           Post
+
+	                           Put
+
+	                           Delete
+
+
+4.mongodb       : Mongodb module is used to interact with the mongodb   connecting mongodb without schema   (schema means rules and regulations).
+
+mongoose        : monodb module is connecting with mongodb with schema.
+
+5.mysql         :mysql module is used to interact with the mysql.
+
+6.mssql         :this module used to interact with the sql server.
+
+7.multer        : used to upload and download images from the server.
+
+8.socket.io     : socket.io module used to implement the chat applications.
+
+9.cors          : used to enable the ports communications.
+
+10.body-parser  :used to recieve the data from cleint applications.
+
+11.JWt           : used to implemenet the token based authentication.
+
+12.Oracledb      : it is used to intercat with the oracledb.
+
+
+
+Note : Above modules downloads to "node_modules" folder in the current path
+
+
+
+
+we can download this modules from   "npm" (or) "yarn".
+
+"NPM" stands for node package manager.
+
+"NPM" present in NodeJs.
+
+"NPM" will download one by one it is called the synchnorize tool.
+
+
+
+
+
+"yarn" tool given from the facebook.
+
+"yarn" tool is the asynchronous tool.
+
+
+
+======================================================================================
+
+
+Day 3
+=====
+
+software installiations
+------------------------
+
+1) download and Install Node JS:
+
+  https://nodejs.org/en/download
+
+To check the Version of Node JS :     Node -v
+
+
+Node It will automatically download and install The NPM
+
+
+To chech the version Of NPM    :     NPM -v
+
+
+
+
+2)Install The yarn Tool
+
+             
+			  > npm install -g yarn
+
+
+
+To check the vesrion of yarn : yarn --version
+
+
+
+3)Download and install visual code:
+
+ https://code.visualstudio.com/download
+
+
+
+
+Download The modules:
+--------------------
+
+>npm install express mongodb mysql --save
+
+
+>yarn add express mongodb mongose mysql --save
+
+
+
+
+====================================================================================
+
+
+Day 4
+-----
+
+
+
+
+
+
+
+
+
+
+
+
+	     
